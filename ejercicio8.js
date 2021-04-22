@@ -5,3 +5,5 @@ const anidada = (a,b) => {
   }
   return cuadrado(a) + cuadrado(b);
 }
+
+module.exports = anidada

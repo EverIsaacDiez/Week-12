@@ -7,3 +7,5 @@ const cerosIzq = (num, totalLength) => {
   }
   return numStr;
 }
+
+module.exports = cerosIzq

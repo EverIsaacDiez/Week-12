@@ -7,3 +7,6 @@ const division = (dividendo, divisor) => {
     return dividendo / divisor;
   }
 }
+
+
+module.exports = division
