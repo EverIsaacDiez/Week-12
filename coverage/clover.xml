@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1619198184672" clover="3.2.0">
+  <project timestamp="1619198184673" name="All files">
+    <metrics statements="38" coveredstatements="38" conditionals="4" coveredconditionals="4" methods="10" coveredmethods="10" elements="52" coveredelements="52" complexity="0" loc="38" ncloc="38" packages="1" files="9" classes="9"/>
+    <file name="ejercicio1.js" path="C:\Users\Ever\Desktop\QA\Problema 12\week 12\ejercicio1.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="5" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="ejercicio2.js" path="C:\Users\Ever\Desktop\QA\Problema 12\week 12\ejercicio2.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+    <file name="ejercicio3.js" path="C:\Users\Ever\Desktop\QA\Problema 12\week 12\ejercicio3.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+    <file name="ejercicio4.js" path="C:\Users\Ever\Desktop\QA\Problema 12\week 12\ejercicio4.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+    <file name="ejercicio5.js" path="C:\Users\Ever\Desktop\QA\Problema 12\week 12\ejercicio5.js">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+    </file>
+    <file name="ejercicio6.js" path="C:\Users\Ever\Desktop\QA\Problema 12\week 12\ejercicio6.js">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="4" count="4" type="stmt"/>
+      <line num="5" count="4" type="stmt"/>
+      <line num="6" count="15" type="stmt"/>
+      <line num="8" count="4" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+    </file>
+    <file name="ejercicio7.js" path="C:\Users\Ever\Desktop\QA\Problema 12\week 12\ejercicio7.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+    <file name="ejercicio8.js" path="C:\Users\Ever\Desktop\QA\Problema 12\week 12\ejercicio8.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="4" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+    </file>
+    <file name="ejercicio9.js" path="C:\Users\Ever\Desktop\QA\Problema 12\week 12\ejercicio9.js">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="4" count="3" type="stmt"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="6" count="8" type="stmt"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

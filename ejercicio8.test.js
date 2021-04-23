@@ -8,3 +8,6 @@ test('ejemplo de suma de cuadrados: (-2)*(-2) + 3*3 = 13', () => {
     expect(anidada(-2,3)).toBe(13)
 })
 
+test('ejemplo de suma de cuadrados: (-2)*(-2) + 2*2 = 8', () => {
+  expect(anidada(-2,2)).toBe(8)
+})
